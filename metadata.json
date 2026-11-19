@@ -1,0 +1,6 @@
+{
+  "name": "GeoDobra 3D — Oficina de Planificação Geométrica",
+  "description": "Jogo educativo 3D de planificação e dobradura de sólidos geométricos para alunos do 3º ano do Ensino Fundamental, com manipulação direta das faces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
